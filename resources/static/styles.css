@@ -1,0 +1,40 @@
+body {
+    max-width: 1150px;
+    margin: 0px auto 0px auto;
+    background-image: url(../img/fondoOscuro.jpg)
+}
+
+#menu {
+    background-color: rgb(179, 57, 0);
+}
+
+#logo {
+    display: inline-flex;
+    margin-top: 20px;
+    width: 300px;
+    margin-left: 20px;
+}
+
+#sections {
+    display: ruby-text;
+    margin-left: 20px;
+    
+}
+
+button {
+    margin: 5px;
+}
+
+#Content {
+    margin: 30px;
+
+}
+
+.section {
+    color: white;
+    display: inline-flex;
+}
+
+img {
+    margin: 10px;   
+}
